@@ -2,11 +2,11 @@
 --------
 Slstatus configuration showing hour, CPU, RAM and battery usage for dwm
 
-# Slstatus
+slstatus
 --------
 Slstatus is a status monitor for window managers that use WM_NAME or stdin to fill the status bar
 
-# Installation
+installation
 --------
 If you don't have a second battery, delete line 69 in `config.h`
 
